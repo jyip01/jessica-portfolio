@@ -17,7 +17,7 @@ class AboutMe extends Component {
                     <p>In my spare time, I’m likely found going on adventures with my dogs, spending time with my family, or helping my nieces with their homework or reading. 
                     I am a learner and I love helping others learn as well.
                     I have a Bachelors degree in computer science, fueling my love for creating wonderful applications. </p>
-                    <Link to='/contact' onClick={this.props.onClick} className="lets-talk-link"><div className="lets-talk-button">Let's Talk !</div></Link>
+                    <Link to='/projects' onClick={this.props.onClick} className="see-projects-link"><div className="see-projects-button">Projects!</div></Link>
                 </div>
             </section>
           )

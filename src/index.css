@@ -25,7 +25,7 @@ body{
 
 /* Font styling */
 
-nav,button,.project-button, h1,h2,h3,.contact-form-submit, .lets-talk-button{
+nav,button,.project-button, h1,h2,h3,.contact-form-submit, .see-projects-button{
   font-family: 'Oswald', sans-serif;
 }
 
@@ -143,11 +143,11 @@ span{
 
 /* ALL styling for ALL buttons */
 
-.lets-talk-link{
+.see-projects-link{
   text-decoration: none;
 }
 
-.lets-talk-button{
+.see-projects-button{
   border-radius:6px;
   height:50px;
   text-decoration: none;
@@ -182,14 +182,14 @@ span{
   margin-top:5px;
 }
 
-button,.contact-form-submit,.project-button, .lets-talk-button{
+button,.contact-form-submit,.project-button, .see-projects-button{
   background-color: rgb(109, 106, 106);
   color: white;
   font-weight: bold;
   font-size: 22px;
 }
 
-.contact-form-submit:hover, button:hover, .project-button:hover, .lets-talk-button:hover{
+.contact-form-submit:hover, button:hover, .project-button:hover, .see-projects-button:hover{
   background-color: #8bccbc;
   cursor: pointer; 
 }
