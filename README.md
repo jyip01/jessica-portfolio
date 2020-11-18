@@ -4,7 +4,7 @@ This repo contains the code for Jessica Yip's portfolio page. It includes an abo
 
 ## Live
 
-This project can be found at the following link: [here](https://jessica-portfolio.vercel.app/)
+This project can be found at the following link: [here](https://portfolio.jessicayip.dev/)
 
 ## Technologies
 
