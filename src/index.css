@@ -38,6 +38,12 @@ h1,h2,h3{
   line-height:42px;
 }
 
+h4{
+  padding-top: 5px;
+  text-align: center;
+
+}
+
 h3{
   text-decoration: double underline #8bccbc;
 }

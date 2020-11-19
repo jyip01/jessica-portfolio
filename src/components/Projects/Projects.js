@@ -10,6 +10,7 @@ function Projects() {
   return (
     <section className="project">
         <h2>Jessica Yip's Portfolio</h2>
+        <h4>From my first solo project to my most recent.</h4>
         <div className="project-container">
             <img className="project-img" src={RingQuiz} alt="RingQuiz"/>
             <section className="project-description">
